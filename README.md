@@ -1,8 +1,5 @@
 ## Hi there 👋
 
-### My name is Zanette Ciríaco
-### I'm IOS and Frontend Developer
-
 <!--
 **ZanetteCiriaco/zanetteciriaco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
