@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 ##
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ZanetteCiriaco&layout=compact&langs_count=7&theme=dark)
-![Zanette Ciriaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanetteCiriaco&show_icons=true&theme=dark&include_all_commits=true&count)
+![Zanette Ciriaco's GitHub stats](https://github-readme-stats.vercel.app/api?username=ZanetteCiriaco&show_icons=true&theme=dark)
 
 
 ## Languages and Tools
@@ -31,7 +31,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg
 
 ## Connect with me
 
-<a href="https://www.linkedin.com/in/zanette-cir%C3%ADaco-439712167/" >
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
+<a href="https://www.linkedin.com/in/zanetteciriaco/" >
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" height="40"/>
 </a>
